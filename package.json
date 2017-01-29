@@ -1,0 +1,17 @@
+{
+  "name": "sandbox-wit.ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@k33g_org",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.6.3",
+    "node-record-lpcm16": "^0.2.0",
+    "request": "^2.79.0",
+    "shelljs": "^0.7.6"
+  }
+}
